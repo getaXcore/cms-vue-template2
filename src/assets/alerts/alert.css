@@ -1,0 +1,8 @@
+.toast-md{
+    float: right;
+    position: absolute;
+    z-index: 1051;
+    right: 1%;
+    top: 1%;
+    width: max-content;
+}
